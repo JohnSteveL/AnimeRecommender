@@ -1,0 +1,23 @@
+2025-08-12 14:54:31,593 - INFO - DataProcessing Initialized
+2025-08-12 14:54:33,363 - INFO - Data loaded successfully for Data Processing
+2025-08-12 14:54:33,660 - INFO - Filtered users successfully.......
+2025-08-12 14:54:33,773 - INFO - Data has been Scaled
+2025-08-12 14:54:34,094 - INFO - Encoded Users and Anime Successfully
+2025-08-12 14:54:36,027 - INFO - Data Splitted Successfully
+2025-08-12 14:54:36,047 - INFO - user2user_encoded saved successfully in processed directory
+2025-08-12 14:54:36,062 - INFO - user2user_decoded saved successfully in processed directory
+2025-08-12 14:54:36,096 - INFO - anime2anime_encoded saved successfully in processed directory
+2025-08-12 14:54:36,127 - INFO - anime2anime_decoded saved successfully in processed directory
+2025-08-12 14:54:45,713 - INFO - Training Testing Data and Rating Data is saved! 
+2025-08-12 14:54:52,205 - INFO - DF and SYNOPSIS_DF saved successfully!
+2025-08-12 14:54:52,209 - INFO - Data Processing Pipeline Run Successfully
+2025-08-12 15:17:29,998 - INFO - DataProcessing Initialized
+2025-08-12 15:17:31,603 - INFO - Data loaded successfully for Data Processing
+2025-08-12 15:17:31,887 - INFO - Filtered users successfully.......
+2025-08-12 15:17:31,996 - INFO - Data has been Scaled
+2025-08-12 15:17:32,251 - INFO - Encoded Users and Anime Successfully
+2025-08-12 15:17:34,290 - INFO - Data Splitted Successfully
+2025-08-12 15:17:34,386 - INFO - user2user and anime2anime encoded-decoded files saved successfully!
+2025-08-12 15:17:43,925 - INFO - Training Testing Data and Rating Data is saved! 
+2025-08-12 15:17:50,286 - INFO - DF and SYNOPSIS_DF saved successfully!
+2025-08-12 15:17:50,290 - INFO - Data Processing Pipeline Run Successfully
